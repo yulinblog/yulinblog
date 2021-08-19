@@ -3,7 +3,7 @@ YL.static = {
   softwareName: '余林的博客', //网站名。请在此处填写您自己的网站名，如王小明的博客。
   version: "1.0.0", // 网站版本号
   iconBtnStart: 'html5', //主图标
-  author: 'yulin',//作者
+  author: 'YULIN',//作者
   contactInformation: 'QQ：596134578',//联系方式
   officialWebsite: 'https://yulinblog.github.io',//软件官网
   welcome: '本网站UI由 YLUI 强力驱动\n更多信息：//ylui.yuri2.cn',//加载完毕控制台提示信息
